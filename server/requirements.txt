@@ -1,0 +1,6 @@
+Flask==2.0.2
+flask_sslify==0.1.5
+requests==2.26.0
+dotenv
+ssl
+Werkzeug==2.0.2

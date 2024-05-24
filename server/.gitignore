@@ -1,0 +1,5 @@
+*.pem
+api_key.env
+Dockerfile
+venv
+*md
