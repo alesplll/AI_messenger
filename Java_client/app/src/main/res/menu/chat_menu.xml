@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/chat_group">
+        <item
+            android:id="@+id/chat1"
+            android:title="Основной" />
+        <item
+            android:id="@+id/chat2"
+            android:title="Психолог" />
+        <item
+            android:id="@+id/chat3"
+            android:title="Юрист" />
+    </group>
+    <item
+        android:id="@+id/chat4"
+        android:title="Программист" />
+</menu>

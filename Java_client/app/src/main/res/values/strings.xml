@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TAIk</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="profile_image">Icon</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="ai_name">chat_gpt</string>
+    <string name="chat_title">Chat Title</string>
+    <string name="head_name_list">Список чатов</string>
+</resources>
